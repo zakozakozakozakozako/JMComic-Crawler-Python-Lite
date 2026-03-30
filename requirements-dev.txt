@@ -1,0 +1,10 @@
+requests
+commonX
+PyYAML
+Pillow
+psutil
+pycryptodome
+requests
+plugin_jm_server
+zhconv
+img2pdf
