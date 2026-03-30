@@ -1,3 +1,11 @@
+# JMComic-Crawler-Python-Lite
+
+主使用核心:
+```
+pip install jmcomic-plus -U
+```
+注:请先检查下方依赖是否正常安装
+
 # Termux 运行说明
 
 这个仓库的默认请求实现已经改成 `requests`，因此在 Termux 上不再强依赖 `curl_cffi`。
