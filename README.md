@@ -2,7 +2,7 @@
 
 主使用核心:
 ```
-pip install jmcomic-plus -U
+pip install git+https://github.com/zakozakozakozakozako/JMComic-Crawler-Python-Lite
 ```
 注:请先检查下方依赖是否正常安装
 
