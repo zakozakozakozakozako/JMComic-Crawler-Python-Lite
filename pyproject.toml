@@ -2,7 +2,7 @@
 requires = ["setuptools"]
 
 [project]
-name = "jmcomic-plus"
+name = "jmcomic"
 authors = [{name = "zakozakozakozakozako", email = "00000000@users.noreply.github.com"}]
 description = "Python API For JMComic (禁漫天堂)"
 readme = "README.md"
